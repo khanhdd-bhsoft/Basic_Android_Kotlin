@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/studentNameET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Student name"/>
+
+    <EditText
+        android:id="@+id/studentCodeET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Student code"/>
+
+    <EditText
+        android:id="@+id/studentClassNameET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Student class name"/>
+
+    <EditText
+        android:id="@+id/studentScoreET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Student score"/>
+
+</LinearLayout>

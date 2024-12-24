@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Kotlin đầu tay của tôi</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Tin nhắn</string>
+    <string name="sync_header">Đồng bộ</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Chữ ký của bạn</string>
+    <string name="reply_title">Phản hồi tự động</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Đồng bộ email theo định kỳ</string>
+    <string name="attachment_title">Tải tài liệu đính kèm</string>
+    <string name="attachment_summary_on">Tự động tải tài liệu đính kèm
+    </string>
+    <string name="attachment_summary_off">Chỉ tải xuống tệp đính kèm khi được yêu cầu thủ công</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Xin chào đoạn trống</string>
+
+
+
+    <string name="articleContent">Bản lĩnh Real Madrid
+Dù gặp phải những khó khăn lớn, từ phong độ không ổn định đến sức ép khổng lồ từ đối thủ, Real Madrid một lần nữa khẳng định sức mạnh tinh thần để ca khúc khải hoàn. Trước chủ nhà Atalanta đang thăng hoa, "Los Blancos" vẫn có được 3 điểm sau chiến thắng sát nút 3-2.
+
+Real Madrid bước vào trận đấu với Atalanta không chỉ mang theo áp lực phải thắng mà còn phải chứng tỏ giá trị của một đội bóng lớn. Họ có thể đã không thể hiện thứ bóng đá đẹp mắt hay thuyết phục, nhưng sự quyết tâm và bản lĩnh vượt qua nghịch cảnh là điều không bao giờ thiếu ở đội bóng này.
+
+Carlo Ancelotti đưa ra những tính toán táo bạo nhằm khai thác điểm yếu trong hệ thống phòng ngự của Atalanta, đặc biệt là lối kèm người cá nhân. Chiến lược của Ancelotti tập trung vào việc kéo giãn hàng phòng ngự của Atalanta.
+
+Ông sử dụng Jude Bellingham và Kylian Mbappe như những ngòi nổ chính, khai thác khoảng trống phía sau các hậu vệ dâng cao. Ngay từ những phút đầu, Vinecius Jr thường xuyên lùi sâu để nhận bóng, tạo cơ hội cho Bellingham di chuyển lên phía trên. Chính sự linh hoạt trong các pha phối hợp này giúp Real Madrid có bàn mở tỷ số.Tuy nhiên, sau khi dẫn trước, Real Madrid lại để lộ điểm yếu quen thuộc: mất bóng nhanh và thiếu khả năng kiểm soát nhịp độ trận đấu. Điều này thật khó hiểu khi họ sở hữu những cầu thủ có khả năng kiểm soát trận đấu tốt như Luka Modric hay Eduardo Camavinga. Sự rời rạc trong lối chơi của Madrid tạo cơ hội cho Atalanta vùng lên mạnh mẽ.
+
+Atalanta cũng không hề giấu ý đồ chơi tấn công trước Real Madrid. Các hậu vệ cánh và trung vệ của họ thường xuyên dâng cao, đặt đối thủ trong tình thế phòng ngự lâm nguy. Lookman, một trong những ngòi sao sáng giá trong đội hình Atalanta, liên tục khai thác điểm yếu trong khả năng phòng ngự cá nhân của Lucas Vázquez.
+
+Dù vậy, hàng thủ của Real Madrid, đặc biệt là Thibaut Courtois, lên tiếng đúng lúc. Thủ thành người Bỉ không chỉ là người "gánh đội" với những pha cứu thua ngoạn mục, anh còn là lý do chính giúp Real Madrid giữ vững nhịp trận trong những khoảnh khắc nguy hiểm nhất. Bên cạnh Courtois, Antonio Rüdiger và Aurélien Tchouaméni cũng thi đấu với tinh thần quyết liệt, ngăn chặn các pha xâm nhập nguy hiểm từ Atalanta.</string>
+
+    <string name="articleWriter">VNExpress</string>
+
+    <string name="localization">Ngôn ngữ</string>
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="english">Tiếng anh</string>
+    <string name="themes">Themes</string>
+    <string name="light">Sáng</string>
+    <string name="dark">Tối</string>
+
+    <string name="sms">SMS</string>
+    <string name="catalogHistory">Lịch sử cuộc gọi</string>
+    <string name="contacts">Danh bạ</string>
+</resources>

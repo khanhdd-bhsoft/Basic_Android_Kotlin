@@ -4,4 +4,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="blue40">#A0ECEC</color>
     <color name="subscribeColor">#FD4D4D</color>
+    <color name="songTitleColor">#0021FF</color>
+    <color name="darkGrey">#6A6A6A</color>
 </resources>

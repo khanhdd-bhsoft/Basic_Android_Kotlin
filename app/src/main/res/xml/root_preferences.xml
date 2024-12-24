@@ -30,6 +30,19 @@
             app:summaryOn="@string/attachment_summary_on"
             app:title="@string/attachment_title" />
 
+        <SwitchPreferenceCompat
+            app:key="localization"
+            app:summaryOff="@string/vietnamese"
+            app:summaryOn="@string/english"
+            app:title="@string/localization" />
+
+
+        <SwitchPreferenceCompat
+            app:key="themes"
+            app:summaryOff="@string/dark"
+            app:summaryOn="@string/light"
+            app:title="@string/themes" />
+
     </PreferenceCategory>
 
 </PreferenceScreen>

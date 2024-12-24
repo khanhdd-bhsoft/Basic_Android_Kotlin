@@ -7,6 +7,7 @@ import androidx.core.content.ContextCompat
 import androidx.viewpager.widget.ViewPager
 import androidx.viewpager2.widget.ViewPager2
 import com.example.myapplication.R
+import com.example.myapplication.utils.ToolbarUtils
 import com.google.android.material.tabs.TabLayout
 import com.google.android.material.tabs.TabLayoutMediator
 
@@ -40,6 +41,9 @@ class TabBarActivity : AppCompatActivity() {
         tabLayoutView = findViewById(R.id.tabLayoutView)
         viewPager = findViewById(R.id.tab_viewpager)
         setSupportActionBar(tabToolbar)
+        ToolbarUtils().setupBasicToolbar(tabToolbar,{
+            finish()
+        },this)
     }
     private fun setupViewPager(){
         var adapter: MyFragmentStateAdapter = MyFragmentStateAdapter(this)

@@ -18,7 +18,6 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
-
     <string name="articleContent">Bản lĩnh Real Madrid
 Dù gặp phải những khó khăn lớn, từ phong độ không ổn định đến sức ép khổng lồ từ đối thủ, Real Madrid một lần nữa khẳng định sức mạnh tinh thần để ca khúc khải hoàn. Trước chủ nhà Atalanta đang thăng hoa, "Los Blancos" vẫn có được 3 điểm sau chiến thắng sát nút 3-2.
 
@@ -32,6 +31,17 @@ Atalanta cũng không hề giấu ý đồ chơi tấn công trước Real Madri
 
 Dù vậy, hàng thủ của Real Madrid, đặc biệt là Thibaut Courtois, lên tiếng đúng lúc. Thủ thành người Bỉ không chỉ là người "gánh đội" với những pha cứu thua ngoạn mục, anh còn là lý do chính giúp Real Madrid giữ vững nhịp trận trong những khoảnh khắc nguy hiểm nhất. Bên cạnh Courtois, Antonio Rüdiger và Aurélien Tchouaméni cũng thi đấu với tinh thần quyết liệt, ngăn chặn các pha xâm nhập nguy hiểm từ Atalanta.</string>
 
-<string name="articleWriter">VNExpress</string>
+    <string name="articleWriter">VNExpress</string>
+
+    <string name="localization">Language</string>
+    <string name="vietnamese">Vietnamese</string>
+    <string name="english">English</string>
+    <string name="themes">Themes</string>
+    <string name="light">light</string>
+    <string name="dark">dark</string>
+
+    <string name="sms">SMS</string>
+    <string name="catalogHistory">Catalog history</string>
+    <string name="contacts">Contacts</string>
 
 </resources>
